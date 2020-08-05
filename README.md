@@ -15,7 +15,7 @@ Steps Followed:
 
 • Performed Desision tree Algorithm on the data set and evaluated the model with the help of confusion matrix.
 
-Model accuracy stands at 90.54% with SENSITIVITY  14.14 , becouse of class imbalance we are getting low sensitivity values.
+Model accuracy stands at 90.54% with SENSITIVITY  14.14 %, becouse of class imbalance we are getting low sensitivity values.
 
 business ojective demands higher Sensitivity,So dicreased the thresh hold level to 0.12 hence model sensitivity increased to 67% at the cost of overall reduction in the accuracy of the model i.e to 77%
 
